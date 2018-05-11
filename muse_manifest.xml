@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="donelow.com" resolutions="1x" timestamp="1526016473079">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="donelow.com" resolutions="1x" timestamp="1526016589164">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="portfolio.css" crc="4193191577" ref="portfolio"/>
     <file name="experience.css" crc="4193191577" ref="experience"/>
-    <file name="index.css" crc="2173401" ref="index"/>
+    <file name="index.css" crc="264885767" ref="index"/>
     <file name="untitled-4.css" crc="4193191577" ref="untitled-4"/>
   </folder>
   <folder name="scripts">
@@ -19,7 +19,7 @@
   <folder name="images">
     <file name="u130-10.png" crc="43851275" ref="index"/>
   </folder>
-  <file name="index.html" crc="394083283" seo="true" mt="1526012308178" redirect="true"/>
+  <file name="index.html" crc="220806923" seo="true" mt="1526016578675" redirect="true"/>
   <file name="portfolio.html" crc="512451223" seo="true" mt="1526011583755" redirect="false"/>
   <file name="experience.html" crc="4207606743" seo="true" mt="1526011600721" redirect="false"/>
   <file name="untitled-4.html" crc="427060369" seo="true" mt="1526011585969" redirect="false"/>
